@@ -19,7 +19,7 @@
   },
   "main": "dist/plyrue.js",
   "dependencies": {
-    "plyr": "https://github.com/trafium/plyr.git"
+    "plyr": "trafium/plyr#master"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
