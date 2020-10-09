@@ -18,7 +18,7 @@
   },
   "main": "dist/plyrue.js",
   "dependencies": {
-    "plyr": "trafium/plyr#2f1096244942011f161315d6dfddca8b86422987"
+    "plyr": "trafium/plyr#master"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
